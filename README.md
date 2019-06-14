@@ -22,9 +22,5 @@ Adafruit invests time and resources providing this open source design, please su
 
 See license.txt for more information.
 
-Adafruit invests time and resources providing this open source design, 
-please support Adafruit and open-source hardware by purchasing 
-products from Adafruit!
-
 Creative Commons Attribution, Share-Alike license, check license.txt for more information 
 All text above must be included in any redistribution
